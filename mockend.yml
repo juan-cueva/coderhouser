@@ -7,5 +7,12 @@ models:
   "activo": true,
   "rol": 1,
   "username": "juan_cueva"
+ }, 
+ {
+  "password": "Prueba123",
+  "nombres": "JUAN CUEVA",
+  "activo": true,
+  "rol": 1,
+  "username": "juan_cueva"
  }
 ]
