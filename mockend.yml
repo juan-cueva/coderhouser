@@ -1,3 +1,4 @@
 models:
   User:
+      count: 1
       data: [{ title: 'Title 1' }]
