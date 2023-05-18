@@ -1,5 +1,5 @@
 models:
-  Users:
+  User:
     data: [
  {
   "password": "Prueba123",
