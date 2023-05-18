@@ -1,10 +1,5 @@
 models:
   User:
       count: 1
-      data: [{ title: 'Title 1' }]
-  Comment:
-    belongsTo: [Post]
-    count: 100
-    fake:
-      email: email
-      body: loremWords
+      _.data: [{ title: 'Title 1' }]
+
