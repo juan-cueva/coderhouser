@@ -6,13 +6,13 @@ models:
   "nombres": "JUAN CUEVA",
   "activo": true,
   "rol": 1,
-  "username": "juan_cueva"
+  "id": "juan_cueva"
  }, 
  {
   "password": "Prueba123",
   "nombres": "JUAN CUEVA",
   "activo": true,
   "rol": 1,
-  "username": "juan_cueva"
+  "id": "juan_cueva"
  }
 ]
